@@ -1,0 +1,147 @@
+[details="Start your adventure!"]
+Pick a path:
+[details="The left path"]
+Walking down this path, you come across a house. Do you:
+[details="Enter the house"]
+Well. Who knew there was a witch in there?
+
+Game Over!
+Ending 1/16
+[/details]
+[details="Walk into the woods"]
+You decide not to trust the house made of candy, and walk into the woods...
+[details="Continue"]
+It's getting late... Do you:
+[details="Push on"]
+You eventually reach the house again, even though you were walking in a straight line. The witch throws a potion at you...
+
+Game Over!
+Ending 2/16
+[/details]
+[details="Go to sleep"]
+Good night...
+
+???? ?????
+Ending 3/16
+[/details]
+[/details]
+[/details]
+[/details]
+[details="The right path"]
+You choose the right path.
+Do you:
+[details="Walk on the left side of the path"]
+You walk into the void.
+
+Game Over!
+Ending 4/16
+[/details]
+[details="Walk on the right side of the path"]
+You see a Void on the left side of the path, good thing you didn't go that way!
+[details="Continue"]
+You reach a large castle. Do you:
+[details="Ask nicely to be let in"]
+The soldiers laugh at you. Then they flip a switch which flings you into the moat of lava!
+
+Game Over!
+Ending 5/16
+[/details]
+[details="Demand to see their leader"]
+The Aliens are surprised, but they let you in their castle.
+[details="Continue"]
+You have reached the Aliens' leader. Do you:
+[details="Leave"]
+You can't leave this place!
+
+Game Over!
+Ending 6/16
+[/details]
+[details="Talk to their leader"]
+The cow moos at you. Apparently the Alien's think that means to put you in the moat, which they promptly do.
+
+Game Over!
+Ending 7/16
+[/details]
+[details="Third Option go brr"]
+You break the fourth wall, dragging the narrator into the game with you.
+[details="Excuse me?"]
+Why would you pull me in here?
+[details="I'm sick of this"]
+Well. Have an ending then.
+
+Ending 8/16
+[/details]
+[details="I wanted to see what would happen"]
+Hmm. I suppose I can let that one go then.
+[details="Continue"]
+I give you a rare and magical item. Use it wisely.
+[details="Oh right, the Aliens."]
+I leave you to the aliens. What do you do?
+[details="Smack their leader with the rare and magical item"]
+Nothing happens. The Aliens throw you into space.
+
+Game Over!
+Ending 9/16
+[/details]
+[details="Telepop to a different dimension"]
+Are you tobby?
+[details="Yes"]
+Liar. You Telepop to the lava dimension. You die.
+
+Game Over!
+Ending 10/16
+[/details]
+[details="No, but I need to get out of here!"]
+Fine. Just this once. You telepop to a dimension where you are the Aliens' leader. Do you:
+[details="Go to space"]
+You suffocate.
+
+Game Over!
+Ending 11/16
+[/details]
+[details="Get a cow"]
+You make a cow the Aliens' leader. You leave. The cow moos.
+
+Game Over!
+Ending 12/16
+[/details]
+[details="Get the narrator"]
+I said only that once. The universe collapses.
+
+Game Over!
+Ending 13/16
+[/details]
+[details="Get a time machine"]
+Where do you go?
+[details="The past"]
+There is nothing.
+
+Game Over!
+Ending 14/16
+[/details]
+[details="The future"]
+You emerge to find the universe is ruled by aliens. They see you come out of the machine and worship you.
+
+You Win!
+Ending 15/16
+[/details]
+[/details]
+[details="Dance off???"]
+No. You are crushed by a tank.
+
+Game Over!
+Ending 16/16
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
+[/details]
